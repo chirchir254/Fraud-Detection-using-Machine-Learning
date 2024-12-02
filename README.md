@@ -2,6 +2,7 @@
 
 ## Overview
 This project aims to build a machine learning model to detect fraudulent transactions in a highly imbalanced credit card dataset. The dataset contains transactions labeled as either normal or fraudulent, with a significant imbalance favoring normal transactions. The main goal is to develop a model that can accurately identify fraudulent transactions despite this imbalance.
+[check code](https://github.com/chirchir254/Fraud-Detection-using-Machine-Learning/blob/main/Fraud_Craud_Detection.ipynb)
 
 ## Dataset
 - ### Sources:   
